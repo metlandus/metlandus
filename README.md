@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <head>
-  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="./style.css">    
 </head>
 
 <h1>Hello There!</h1>
@@ -174,7 +174,8 @@ Feel free to check out some of the projects I've built along my journey and stay
   </a>
   <a href="https://github.com/metlandus" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="52" height="40" alt="github logo"  />
-    </a>
+  </a>
+  <p>(But you are already here so you probably won't need it...)</p>
 </div>
 
 ###
