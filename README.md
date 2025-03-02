@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<head>
-  <link rel="stylesheet" href="./style.css">    
-</head>
 
 <h1>Hello There!</h1>
 
@@ -22,7 +19,7 @@ Here are some ideas to get you started:
 
 Feel free to check out some of the projects I've built along my journey and stay tuned for upcoming ones! </p>
 
-<h4 align="left">Here is My Tech Stack :</h4>
+<h3 align="left">Here is My Tech Stack :</h3>
 
 ###
 
@@ -78,11 +75,11 @@ Feel free to check out some of the projects I've built along my journey and stay
 
 ###
 
-<h4 align="left">Backend :</h4>
+<h3 align="left">Backend :</h3>
 
 ###
 
-<div align="left" class="skills">
+<div align="left" style="display:flex; justify-content:center;">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
@@ -96,11 +93,11 @@ Feel free to check out some of the projects I've built along my journey and stay
 
 ###
 
-<h4 align="left">Frontend :</h4>
+<h3 align="left">Frontend :</h3>
 
 ###
 
-<div align="left" class="skills">
+<div align="left" style="display:flex; justify-content:center;">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
@@ -120,11 +117,11 @@ Feel free to check out some of the projects I've built along my journey and stay
 
 ###
 
-<h4 align="left">Tools and System :</h4>
+<h3 align="left">Tools and System :</h3>
 
 ###
 
-<div align="left" class="skills">
+<div align="left" style="display:flex; justify-content:center;">
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
@@ -136,7 +133,7 @@ Feel free to check out some of the projects I've built along my journey and stay
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img style ="filter: invert(50%) sepia(100%) saturate(1000%) hue-rotate(90deg)" height="40" src="https://cdn.simpleicons.org/swagger?viewbox=auto" alt="swagger" />
+  <img style ="filter: invert(60%) sepia(100%) saturate(500%) hue-rotate(50deg)" height="40" src="https://cdn.simpleicons.org/swagger?viewbox=auto" alt="swagger" />
 
 </div>
 
@@ -146,7 +143,7 @@ Feel free to check out some of the projects I've built along my journey and stay
 
 ###
 
-<div align="left" class="skills">
+<div align="left" style="display:flex; justify-content:center;">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
@@ -162,7 +159,7 @@ Feel free to check out some of the projects I've built along my journey and stay
 
 ###
 
-<div align="left" class="socials">
+<div align="left" style="display:flex; align-items:center;">
   <a href="https://www.linkedin.com/in/mete-civelek/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -172,10 +169,6 @@ Feel free to check out some of the projects I've built along my journey and stay
   <a href="mailto:mete.civelek@hotmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50" height="50" alt="gmail logo"  />
   </a>
-  <a href="https://github.com/metlandus" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="52" height="40" alt="github logo"  />
-  </a>
-  <p>(But you are already here so you probably won't need it...)</p>
 </div>
 
 ###
