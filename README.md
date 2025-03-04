@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hello There! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
+<h1>Hello There! <img align="center" src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
 
 <h4>Welcome to my Github account. My name is Mete. I'm a Full Stack Developer located in Istanbul/Turkey.</h4><p> I've been part of a Full Stack Web Development bootcamp for over a year now, and ever since, I've loved building new things through technology. I enjoy algorithms and backend development, and I'm currently looking to deepen my knowledge in these areas.
 
