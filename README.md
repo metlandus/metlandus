@@ -13,15 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hello There!</h1>
+<h1>Hello There! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
 
 <h4>Welcome to my Github account. My name is Mete. I'm a Full Stack Developer located in Istanbul/Turkey.</h4><p> I've been part of a Full Stack Web Development bootcamp for over a year now, and ever since, I've loved building new things through technology. I enjoy algorithms and backend development, and I'm currently looking to deepen my knowledge in these areas.
 
 Feel free to check out some of the projects I've built along my journey and stay tuned for upcoming ones! </p>
 
-<h3 align="left">Here is My Tech Stack :</h3>
-
-###
+### <img width="50" height="50" align="center" src="https://img.icons8.com/arcade/64/sheets.png" alt="sheets"/> Here is My Tech Stack :
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
@@ -73,11 +71,7 @@ Feel free to check out some of the projects I've built along my journey and stay
 
 <p align="left">But this looks like a mess. Lets organize it a bit shall we?</p>
 
-###
-
-<h3 align="left">Backend :</h3>
-
-###
+### <img width="52" height="52" align="center" src="https://img.icons8.com/color/48/programming--v1.png" alt="programming--v1"/> Backend :
 
 <div align="left" style="display:flex; justify-content:center;">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
@@ -93,9 +87,7 @@ Feel free to check out some of the projects I've built along my journey and stay
 
 ###
 
-<h3 align="left">Frontend :</h3>
-
-###
+### <img width="48" height="48" align="center" src="https://img.icons8.com/color/48/web-design.png" alt="web-design"/> Frontend :
 
 <div align="left" style="display:flex; justify-content:center;">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -117,9 +109,7 @@ Feel free to check out some of the projects I've built along my journey and stay
 
 ###
 
-<h3 align="left">Tools and System :</h3>
-
-###
+### <img width="42" height="42" align="center" src="https://img.icons8.com/external-sapphire-kerismaker/48/external-Web-Tools-web-maintenance-sapphire-kerismaker.png" alt="external-Web-Tools-web-maintenance-sapphire-kerismaker"/> Tools and System :
 
 <div align="left" style="display:flex; justify-content:center;">
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
@@ -139,9 +129,9 @@ Feel free to check out some of the projects I've built along my journey and stay
 
 ###
 
-<p align="left">This is better isn't it? Oh and <b>I'm also currently learning :</b></p>
+<p align="left">This is better isn't it? Oh and </p>
 
-###
+### <img width="50" height="50" align="center" src="https://img.icons8.com/external-beshi-color-kerismaker/50/external-Working-beverage-beshi-color-kerismaker.png" alt="external-Working-beverage-beshi-color-kerismaker"/> I'm also currently learning :
 
 <div align="left" style="display:flex; justify-content:center;">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -153,11 +143,7 @@ Feel free to check out some of the projects I've built along my journey and stay
 
 ###
 
-###
-
-<p align="left">You can reach me on :</p>
-
-###
+## <img width="40" height="40" align="center" src="https://img.icons8.com/fluency/48/contact-card.png" alt="contact-card"/> You can reach me on :
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mete-civelek/" target="_blank">
