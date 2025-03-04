@@ -75,7 +75,7 @@ Feel free to check out some of the projects I've built along my journey and stay
 
 ###
 
-<h3 align="left">Backend :</h3>
+<h3 align="left"><img width="48" height="48" src="https://img.icons8.com/color/48/programming--v1.png" alt="programming--v1"/>Backend :</h3>
 
 ###
 
