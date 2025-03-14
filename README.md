@@ -109,7 +109,7 @@ Feel free to check out some of the projects I've built along my journey and stay
 
 ###
 
-## <img width="42" height="42" align="center" src="https://img.icons8.com/external-sapphire-kerismaker/48/external-Web-Tools-web-maintenance-sapphire-kerismaker.png" alt="external-Web-Tools-web-maintenance-sapphire-kerismaker"/> Tools and System :
+## <img width="40" height="40" align="center" src="https://img.icons8.com/external-sapphire-kerismaker/48/external-Web-Tools-web-maintenance-sapphire-kerismaker.png" alt="external-Web-Tools-web-maintenance-sapphire-kerismaker"/> Tools and System :
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
