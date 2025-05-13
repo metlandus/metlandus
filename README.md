@@ -123,7 +123,6 @@ Feel free to check out some of the projects I've built along my journey and stay
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img style ="filter: invert(60%) sepia(100%) saturate(500%) hue-rotate(50deg)" height="40" src="https://cdn.simpleicons.org/swagger?viewbox=auto" alt="swagger" />
 
 </div>
 
